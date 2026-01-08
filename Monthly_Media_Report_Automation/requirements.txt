@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly
-matplotlib
 wordcloud
-python-pptx
-kaleido
+matplotlib
+streamlit-plotly-events
+chardet
